@@ -11,7 +11,7 @@ DEPLOY_PATH = env.deploy_path
 
 # Remote server configuration
 production = 'alexander@www.teibrich.de:22'
-dest_path = '/home/alexander/www.teibrich.de'
+dest_path = '/home/alexander/www.pfadis-potsdam.de'
 
 # Rackspace Cloud Files configuration settings
 env.cloudfiles_username = 'my_rackspace_username'
