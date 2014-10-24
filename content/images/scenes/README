@@ -1,0 +1,7 @@
+Background Images have a format of **25 : 9**
+
+Versions ( width + target size):
+* 1920px = 150kb
+* 960px = 60kb
+* 480px = 20kb
+* 240px = 10kb

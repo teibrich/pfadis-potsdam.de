@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block title %}Archiv - {{ SITENAME }}{% endblock %}
+
+{% block content %}
+    <section id="content" class="body">
+        <h1 class="entry-title">Archiv</h1>
+        <p>
+        Die folgende Übersicht enthält alle auf dieser Seite veröffentlichten Artikel in chronologischer Reihenfolge.
+        </p>
+        <div class="entry-content">
+            <div id="archives">
+                {% for article in dates %}
+                    <p>
+                        <span class="categories-timestamp"><time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time></span>
+                        <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}{% if article.subtitle %} - {{ article.subtitle }}{% endif %}</a>
+                    </p>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
+{% endblock %}

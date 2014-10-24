@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block title %}
+{% if page.title != "Index" %}
+{{ page.title }} - {{ SITENAME }}{% else %}
+{{ SITENAME }}{% endif %}
+{% endblock %}
+{% block html_lang %}{% if page.lang %}{{ page.lang }}{% endif %}{% endblock %}
+{% block meta %}
+    {% if page.author %}
+    <meta name="author" content="{{ page.author }}" />
+    {% else %}
+    <meta name="author" content="{{ AUTHOR }}" />
+    {% endif %}
+    {% if page.summary %}
+    <meta name="description" content="{{ page.summary|striptags|escape }}" />
+    {% endif %}
+{% endblock %}
+{% block opengraph %}
+    <meta property="og:site_name" content="{{ SITENAME }}" />
+    <meta property="og:type" content="article"/>
+    <meta property="og:title" content="{{ self.title()|striptags|escape }}"/>
+    <meta property="og:url" content="{{ SITEURL }}/{{ page.url }}"/>
+    <meta property="og:description" content="{{ page.summary|striptags|escape }}" />
+    {% if page.og_image %}
+    <meta property="og:image" content="{{ SITEURL }}/{{ page.og_image }}"/>
+    {% elif page.image %}
+    <meta property="og:image" content="{{ SITEURL }}/{{ page.image }}"/>
+    {% elif OPEN_GRAPH_IMAGE %}
+    <meta property="og:image" content="{{ SITEURL }}/GlobusLogo.png"/>
+    {% endif %}
+{% endblock %}
+
+{% block content %}
+    <section id="content" class="body">
+        {% if not page.hide_title %}
+        <h1 class="entry-title">{{ page.title }}</h1>
+        {% endif %}
+        {% import 'includes/translations.html' as translations with context %}
+        {{ translations.translations_for(page) }}
+        <div class="entry-content">
+            {{ page.content }}
+        </div>
+    </section>
+{% endblock %}
