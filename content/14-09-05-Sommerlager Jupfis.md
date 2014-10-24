@@ -2,7 +2,7 @@ Title: Vom Hike der Juffis
 Date: 2014-10-24 18:20:41
 author: Stephan Hirsch
 Tags: Wölflinge, Jungpfadfinder
-Scene: nature1.jpg
+Scene: hike1.jpg
 Summary: Ferienzeit ist Fahrtenzeit für die Pfadfinder. So machten sich die Wölflinge und Jungpfadfinder (jeweils 13 Kinder und drei Leiter) Anfang August auf den Weg in den nördlichen Harz.
 
 Ferienzeit ist Fahrtenzeit für die Pfadfinder. So machten sich die Wölflinge und Jungpfadfinder (jeweils 13 Kinder und drei Leiter) Anfang August auf den Weg in den nördlichen Harz. Ziel war der DPSG Zeltplatz am "Forsthaus Eggerode", gelegen zwischen Blankenburg und Thale. Die Jungpfadfinder starteten mit einem Hike (Wanderung, Geländemarsch) in Halberstadt beginnend und der Nase folgend ins Unbekannte. Das "Forsthaus Eggerode" war das Ziel, welches an den folgenden vier Tagen erreicht werden sollte. Sämtliches Gepäck, bestehend aus Schlafsäcken, Kleidung, Proviant und Geschirr wurde getragen und geschlafen haben wir in der freien Natur. So rollten wir am ersten Abend den Schlafsack in den "Sandhöhlen" an der Burgruine Regenstein nördlich von

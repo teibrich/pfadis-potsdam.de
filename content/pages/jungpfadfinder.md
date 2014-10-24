@@ -1,5 +1,5 @@
 Title: Jungpfadfinder
 Summary: ...
-Scene: hands.jpg
+Scene: mister-x.jpg
 
 Die Leiterstufe ...

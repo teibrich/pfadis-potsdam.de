@@ -1,5 +1,5 @@
 Title: Rover
 Summary: ...
-Scene: hands.jpg
+Scene: winter2.jpg
 
 Die Leiterstufe ...

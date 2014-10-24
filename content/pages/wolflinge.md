@@ -1,5 +1,5 @@
 Title: Wölflinge
 Summary: ...
-Scene: hands.jpg
+Scene: fire2.jpg
 
 Die Leiterstufe ...

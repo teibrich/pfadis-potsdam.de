@@ -1,5 +1,5 @@
 Title: Leiter
 Summary: ...
-Scene: dpsg-sanssouci.jpg
+Scene: winter1.jpg
 
 Die Leiterstufe ...

@@ -1,5 +1,5 @@
 Title: Pfadfinder
 Summary: ...
-Scene: hands.jpg
+Scene: fire3.jpg
 
 Die Leiterstufe ...
