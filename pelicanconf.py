@@ -44,7 +44,7 @@ MENUITEMS = (
   ('Wölflinge', '/pages/wolflinge.html'),
   ('Jungpfadfinder', '/pages/jungpfadfinder.html'),
   ('Pfadfinder', '/pages/pfadfinder.html'),
-  ('Rover', '/pages/pfadfinder.html'),
+  ('Rover', '/pages/rover.html'),
   ('Leiter', '/pages/leiter.html'),
 	('Impressum', '/pages/impressum.html')
 )

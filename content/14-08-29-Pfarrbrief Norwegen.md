@@ -12,7 +12,7 @@ Im wilden und kaum von Menschen berührten Dovrefjell folgten unsere Pfadfinder 
 
 In Trondheim stand der Nidarosdom ganz oben auf der Besuchsliste. Hier befindet sich auch die historische Grabstätte Olavs. Der Dom ist ein einzigartiges Zeugnis der Kombination romanischer und gotischer Stilelemente im nördlichen Europa.
 
-{% img left img-large shadowbox images/web_14-08-29-sola_norwegen.jpg %}
+{% img left img-medium shadowbox images/web_14-08-29-sola_norwegen.jpg %}
 
 Aber auch das typische Pfadfinderleben kam auf dieser Fahrt nicht zu kurz. So durften sich unsere Pfadfinder auch dem Sommerlager von Pfadfindern aus Vanikan, einem Dörfchen auf einer Halbinsel nördlich Trondheims, anschließen. In einer völlig intakten und unberührten Natur wurde alles geboten, was ein Pfadfinderherz höher schlagen lässt: Wandern, Klettern, Paddeln, Bäume fällen und Holz hacken bis hin zum Fischen und Kochen in einem selbsterrichteten Erdofen. Die Norweger erwiesen sich zudem als Spezialisten im Bau von „Baumstamm-Karussellen“, Seilbahnen und Hängebrücken.
 
