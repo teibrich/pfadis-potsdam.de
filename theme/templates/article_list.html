@@ -1,21 +1,21 @@
 {% extends "base.html" %}
 {% block content %}
+    <section id="content" class="body">
+        {% block heading %}<!-- <h1 class="entry-title">Liste</h1> -->{% endblock heading %}
+        <div class="entry-content">
+        <p>
+            Die folgende Übersicht enthält alle in diesem Bereich veröffentlichten Artikel in chronologischer Reihenfolge. 
+        </p>
     {% if articles %}
         {% for article in (articles_page.object_list if articles_page else articles) %}
-            <article>
-                <h2><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
-                {% if DISPLAY_ARTICLE_INFO_ON_INDEX %}
-                    <div class="well well-sm">
-                        {% include "includes/article_info.html" %}
-                    </div>
-                {% endif %}
-                <div class="summary">{{ article.summary }}
-                    <a class="btn btn-default btn-xs" href="{{ SITEURL }}/{{ article.url }}">more ...</a>
-                </div>
-            </article>
-            <hr/>
+            <p>
+                <span class="categories-timestamp"><time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time></span>
+                <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}{% if article.subtitle %} - {{ article.subtitle }}{% endif %}</a>
+            </p>
         {% endfor %}
     {% endif %}
 
     {% include 'includes/pagination.html' %}
+            </div>
+    </section>
 {% endblock content %}
