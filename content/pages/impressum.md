@@ -9,4 +9,4 @@ Angaben gemäß § 5 TMG:
 > Am Bassin 2
 > 14467 Potsdam
 
-> E-Mail: <object data="/images/mails/admin.svg" style="height: 15px;" type="image/svg+xml">admin_teibrich_de</object>
+> E-Mail: vorstand@pfadis-potsdam.de

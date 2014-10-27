@@ -5,4 +5,8 @@ Scene: dpsg-sanssouci.jpg
 save_as: index.html
 Summary: 
 
-Add some nice content here.
+# DPSG Stamm Sanssouci Potsdam
+
+{% img center img-medium images/logos/logo.svg %}
+
+bla

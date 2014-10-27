@@ -53,6 +53,19 @@ img.img-large {
     /* leave as is */
 }
 
+img.right {
+    margin-left: auto;
+}
+
+img.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.left {
+    margin-right: auto;
+}
+
 blockquote {
     font-size: 15px;
 }
