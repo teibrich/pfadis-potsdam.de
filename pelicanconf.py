@@ -7,7 +7,7 @@ import os
 AUTHOR = 'DPSG Stamm Sanssouci'
 YEAR = datetime.now().year
 SITENAME = 'DPSG Stamm Sanssouci'
-SITEURL = 'http://www.pfadis-potsdam.de'
+SITEURL = 'http://demo.pfadis-potsdam.de'
 
 PATH = 'content'
 FILENAME_METADATA = '(?P<slug>.*)'
