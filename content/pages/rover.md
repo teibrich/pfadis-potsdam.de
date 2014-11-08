@@ -11,5 +11,3 @@ var ypsyjzz = ['/','i','d','p','a','l','o','>','l','.','e','-','e','s','p','s','
 var tosxxrg = ['s','h','p','e','r','=','-','"','a','@','c','i','o','d','-','s','d','t','d','l','l','d','"','/','t','t','=','i','v','s','r','<','s','a','p','a','s','s','l','d','.','e','s','v','p','.','r','s','f','a','f','r',' ','s','@','m','m','e','i','"','>','o','d',':','e','>','i','m','a','t','r','p','i','e','o','<','o',' ','"','f','.','m','t','l','e','a','a','s','i','.','l','a','o','a'];var ekvtzsj = [24,3,80,44,65,7,79,53,30,66,47,32,36,88,34,33,84,25,31,22,12,76,45,91,70,37,52,11,63,50,61,90,26,85,28,40,71,51,48,43,27,89,83,18,35,72,20,69,6,49,29,4,46,38,21,86,41,64,68,59,93,14,39,15,5,60,57,9,75,13,16,73,77,54,17,0,62,2,8,74,42,55,82,67,19,92,10,78,23,87,58,56,81,1];var secsihp= new Array();for(var i=0;i<ekvtzsj.length;i++){secsihp[ekvtzsj[i]] = tosxxrg[i]; }for(var i=0;i<secsihp.length;i++){document.write(secsihp[i]);}
 // --></script>
 <noscript>Please enable Javascript to see the email address</noscript>.
-
-*Aktuelle und vergangene Artikel der Rover findest du auch noch [hier](/tag/rover.html).*

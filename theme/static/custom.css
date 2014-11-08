@@ -73,3 +73,44 @@ blockquote {
 .entry-content .row {
     margin-right: 0px;
 }
+
+
+/* Responsive iFrame */
+/* http://themeloom.com/2013/02/tips-embed-google-maps-and-calendars-in-a-responsive-wordpress-theme/ */
+/* http://en.forums.wordpress.com/topic/google-calendar-embed-not-displaying-correctly-on-mobile-iphone-5 */
+
+.little-calendar,
+.big-calendar {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+}
+
+.little-calendar iframe,
+.big-calendar iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.little-calendar {
+    width: 280px;
+    max-width: 100%;
+    overflow: hidden;
+}
+
+@media (min-width: 550px) {
+    .little-calendar {
+        display: none !important;
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    .big-calendar {
+        display: none !important;
+    }
+}

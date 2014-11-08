@@ -13,5 +13,3 @@ var cwvjpih = ['a','"','d','o','i','@','e','o','i','d','r','l',' ','m','t','a','
 // --></script>
 <noscript>Please enable Javascript to see the email address</noscript>.
 
-*Aktuelle und vergangene Artikel der Pfadfinder findest du auch noch [hier](/tag/pfadfinder.html).*
-

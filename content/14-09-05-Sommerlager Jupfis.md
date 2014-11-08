@@ -1,6 +1,6 @@
 Title: Vom Hike der Juffis
 Date: 2014-10-24 18:20:41
-author: Stephan Hirsch
+author: Michael Franz
 Tags: Wölflinge, Jungpfadfinder
 Scene: hike1.jpg
 Summary: Ferienzeit ist Fahrtenzeit für die Pfadfinder. So machten sich die Wölflinge und Jungpfadfinder (jeweils 13 Kinder und drei Leiter) Anfang August auf den Weg in den nördlichen Harz.

@@ -10,5 +10,3 @@ var jejgsqh = ['d','=','<','p','.','d','d','u','e','p','a','-','@','<','u','-','
 <noscript>Please enable Javascript to see the email address</noscript>.
 
 Meld dich am Besten einfach mal ;-)
-
-*Aktuelle und vergangene Artikel der Jungpfadfinder findest du auch noch [hier](/tag/jungpfadfinder.html).*

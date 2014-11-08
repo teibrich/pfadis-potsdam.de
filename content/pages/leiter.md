@@ -16,5 +16,3 @@ var wmjzlhf = ['a','d','c','@','s','p','a','d','@',' ','a','a','r','d','o','r','
 <noscript>Please enable Javascript to see the email address</noscript>!**
 
 Im Vorstand werden wir übrigens vertreten durch Fabian Bräunlein, Alexander Teibrich und Matthias Wemhoff.
-
-*Aktuelle und vergangene Artikel der Leiter findest du auch noch [hier](/tag/leiter.html).*
