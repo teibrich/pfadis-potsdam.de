@@ -10,8 +10,8 @@ env.deploy_path = 'output'
 DEPLOY_PATH = env.deploy_path
 
 # Remote server configuration
-production = 'alexander@www.teibrich.de:22'
-dest_path = '/var/www/www.pfadis-potsdam.de/'
+production = 'dpsgpots@hadar.uberspace.de'
+dest_path = '/home/dpsgpots/html/'
 
 # Rackspace Cloud Files configuration settings
 env.cloudfiles_username = 'my_rackspace_username'
@@ -69,5 +69,5 @@ def publish():
         exclude=".DS_Store",
         local_dir=DEPLOY_PATH.rstrip('/') + '/',
         delete=True,
-        extra_opts='-c --chmod=ug=rwX,o=rxX',
+        extra_opts='-c --chmod=Da+rx,Fa+r',
     )
