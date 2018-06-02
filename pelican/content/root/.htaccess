@@ -10,6 +10,8 @@ RewriteCond %{HTTP_HOST} !^www\.pfadis-potsdam\.de [NC]
 RewriteRule ^(.*)$ https://www.pfadis-potsdam.de/$1 [R=301,L]
 
 AddType image/svg+xml .svg
+AddType font/woff .woff
+AddType font/woff2 .woff2
 AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css application/javascript text/javascript image/svg+xml
 
 ErrorDocument 404 /pages/404.html

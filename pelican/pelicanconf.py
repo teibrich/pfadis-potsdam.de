@@ -51,7 +51,7 @@ MENUITEMS = (
 
 DEFAULT_PAGINATION = False
 TYPOGRIFY = True
-GOOGLE_ANALYTICS = "UA-55331241-2"
+# GOOGLE_ANALYTICS = "UA-55331241-2"
 
 # Use Relative for (local) debugging, but Absolute for publishing
 RELATIVE_URLS = True
