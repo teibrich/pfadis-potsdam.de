@@ -3,6 +3,10 @@
 ## Dependencies
 
     pip install pelican fab fabric==1.14.0
+    (cd pelican plugins && git submodule init)
+    git submodule update --recursive --remote
+
+or directly do a `git clone --recursive`.
 
 ## Serving
 To start a local server run
