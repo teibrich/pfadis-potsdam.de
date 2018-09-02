@@ -69,6 +69,11 @@ EXTRA_PATH_METADATA = {
 }
 
 # Copy over files that should go into the root directory
-for filename in os.listdir(os.path.join(PATH, ROOT_FILES)):
-	path = os.path.join(ROOT_FILES, filename)
-	EXTRA_PATH_METADATA[path] = {'path': filename}
+rootFolder = os.path.join(PATH, ROOT_FILES)
+for folder, dirs, files in os.walk(rootFolder):
+  for filename in files:
+    path = os.path.join(folder, filename)
+    relativePath = os.path.relpath(path, rootFolder)
+    contentPath = os.path.relpath(path, PATH)
+
+    EXTRA_PATH_METADATA[contentPath.replace('\\', '/')] = {'path': relativePath.replace('\\', '/')}
