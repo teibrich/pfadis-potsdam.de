@@ -11,9 +11,16 @@ Summary:
 
 {% img center img-medium images/logos/logo.svg %}
 
-Unseren Stamm gibt es zwar offiziell erst seit Anfang 2014 (inoffiziell Ende 2011), dafür sind wir aber schon ca. 70 Wöflinge, Ju(p)fis, Pfadis, Rover und Leiter! Wir haben alle ein bis zwei Wochen Gruppenstunden, natürlich ein Sommerlager, aber dazwischen auch noch zahlreiche andere Lager, Fahrten und Aktionen, so dass niemanden langweilig wird.
+Die Deutsche Pfadfinderschaft St. Georg (DPSG) ist der größte Pfadfinderverband in Deutschland und gleichzeitig einer der größten Kinder- und Jugendverbände. Dabei geht es um ganz viel Abenteuer:
 
-Klick dich doch einfach mal durch unsere Seite und melde dich bei uns, falls du Lust hast mitzumachen - als Grüppling oder auch als Leiter!
+* mit Freundinnen und Freunden Spaß haben,
+* in der Natur unterwegs sein,
+* Neues entdecken und ausprobieren,
+* gemeinsam in der Gruppe das eigene Umfeld gestalten.
+
+In Potsdam sind wir aktuell ca. 100 Wölflinge, Jungpfadfinder, Pfadfinder, Rover und Leiter! Wir haben je nach Altersstufe ein- bis zweiwöchentlich Gruppenstunden (Montag, Dienstag, Freitag oder Samstag), natürlich ein Sommerlager, aber dazwischen auch noch zahlreiche andere Lager, Fahrten und Aktionen, so dass niemandem langweilig wird. 
+
+Komm doch gerne einfach einmal vorbei – als Kind, Jugendlicher oder auch als Leiter*In!
 
 Auf unserer [Facebook-Seite](https://www.facebook.com/pfadispotsdam) findest du übrigens auch noch weitere aktuelle Informationen ;-)
 

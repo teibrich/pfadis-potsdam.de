@@ -46,7 +46,8 @@ MENUITEMS = (
   ('Pfadfinder', '/pages/pfadfinder.html'),
   ('Rover', '/pages/rover.html'),
   ('Leiter', '/pages/leiter.html'),
-	('Impressum', '/pages/impressum.html')
+	('Impressum', '/pages/impressum.html'),
+  ('Datenschutzerklärung', '/pages/datenschutz.html')
 )
 
 DEFAULT_PAGINATION = False

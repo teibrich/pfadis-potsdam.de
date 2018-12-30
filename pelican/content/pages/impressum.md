@@ -5,7 +5,7 @@ Scene: hands.jpg
 Angaben gemäß § 5 TMG:
 
 > DPSG Stamm Sanssouci, Potsdam  <br />
-> Vorstand: Fabian Bräunlein, Alexander Teibrich, Matthias Wemhoff <br />
+> Vorstand: Max Klenk, Alexander Teibrich, Matthias Wemhoff <br />
 > Am Bassin 2 <br />
 > 14467 Potsdam <br />
 
