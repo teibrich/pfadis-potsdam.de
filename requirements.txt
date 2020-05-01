@@ -1,4 +1,4 @@
-python-3.6.9
+python-3.7
 blinker==1.4
 docutils==0.16
 feedgenerator==1.9.1
