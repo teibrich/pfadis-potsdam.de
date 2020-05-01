@@ -1,11 +1,9 @@
-Title: Index
+Title: DPSG Stamm Sanssouci in Potsdam
 Date: 2014-10-24 17:13:57
 hide_title: True
 Scene: dpsg-sanssouci.jpg
 save_as: index.html
 Summary: 
-
-# DPSG Stamm Sanssouci Potsdam
 
 *Hier ist immer etwas los! Scoute dich!*
 

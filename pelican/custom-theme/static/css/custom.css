@@ -58,6 +58,7 @@ img.right {
 }
 
 img.center {
+    display: block;
     margin-left: auto;
     margin-right: auto;
 }

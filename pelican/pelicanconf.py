@@ -19,7 +19,8 @@ FILENAME_METADATA = '(?P<slug>.*)'
 # pelican-bootstrap3
 THEME = "./combined_theme"
 BOOTSTRAP_THEME = "yeti"
-CUSTOM_CSS = "./custom/custom.css"
+CUSTOM_CSS = "theme/css/custom.css"
+CUSTOM_JS = "theme/js/custom.js"
 DIRECT_TEMPLATES = ('archives', 'tags')
 PAGINATED_TEMPLATES = {'blog': None}
 SHOW_ARTICLE_AUTHOR = True
@@ -43,6 +44,7 @@ JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
 }
 I18N_TEMPLATES_LANG = 'de'
+PADDED_SINGLE_COLUMN_STYLE = True
 
 TIMEZONE = 'Europe/Paris'
 
