@@ -36,13 +36,13 @@
 
     {# Favicons are a touchy subject. For reasoning for the following code, see: http://stackoverflow.com/a/23851464/872397 #}
     {% if FAVICON %}
-    <link href="{{ SITEURL }}/{{ FAVICON }}" rel="icon">
+    <link href="/{{ FAVICON }}" rel="icon">
     {% endif %}
     {% if FAVICON_IE %}
-    <!--[if IE]><link rel="shortcut icon" href="{{ SITEURL }}/{{ FAVICON_IE }}"><![endif]-->
+    <!--[if IE]><link rel="shortcut icon" href="/{{ FAVICON_IE }}"><![endif]-->
     {% endif %}
     {% if TOUCHICON %}
-    <link rel="apple-touch-icon" href="{{ SITEURL }}/{{ TOUCHICON }}">
+    <link rel="apple-touch-icon" href="/{{ TOUCHICON }}">
     {% endif %}
 
     {% block canonical_rel %}{% endblock %}
@@ -80,37 +80,37 @@
 
     <!-- Bootstrap -->
     {% if BOOTSTRAP_THEME %}
-        <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/bootstrap.{{ BOOTSTRAP_THEME }}.min.css" type="text/css"/>
+        <link rel="stylesheet" href="/{{ THEME_STATIC_DIR }}/css/bootstrap.{{ BOOTSTRAP_THEME }}.min.css" type="text/css"/>
     {% else %}
-        <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/bootstrap.min.css" type="text/css"/>
+        <link rel="stylesheet" href="/{{ THEME_STATIC_DIR }}/css/bootstrap.min.css" type="text/css"/>
     {% endif %}
-    <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/{{ THEME_STATIC_DIR }}/css/font-awesome.min.css" rel="stylesheet">
 
-    <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/pygments/{{ PYGMENTS_STYLE|default('native') }}.css" rel="stylesheet">
+    <link href="/{{ THEME_STATIC_DIR }}/css/pygments/{{ PYGMENTS_STYLE|default('native') }}.css" rel="stylesheet">
     {% if 'tipue_search' in PLUGINS %}
     <link href="{{ SITEURL}}/{{ THEME_STATIC_DIR }}/tipuesearch/tipuesearch.css" rel="stylesheet">
     {% endif %}
     {% if DOCUTIL_CSS %}
-        <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/html4css1.css" rel="stylesheet">
+        <link href="/{{ THEME_STATIC_DIR }}/css/html4css1.css" rel="stylesheet">
     {% endif %}
     {% if TYPOGRIFY %}
-        <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/typogrify.css" rel="stylesheet">
+        <link href="/{{ THEME_STATIC_DIR }}/css/typogrify.css" rel="stylesheet">
     {% endif %}
-    <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/style.css" type="text/css"/>
+    <link rel="stylesheet" href="/{{ THEME_STATIC_DIR }}/css/style.css" type="text/css"/>
     {% if CUSTOM_CSS %}
-        <link href="{{ SITEURL }}/{{ CUSTOM_CSS }}" rel="stylesheet">
+        <link href="/{{ CUSTOM_CSS }}" rel="stylesheet">
     {% endif %}
     {% if SHARIFF %}
-        <link href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/shariff/shariff.min.css" rel="stylesheet">
+        <link href="/{{ THEME_STATIC_DIR }}/css/shariff/shariff.min.css" rel="stylesheet">
     {% endif %}
 
     {% if FEED_ALL_ATOM %}
-        <link href="{{ SITEURL }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate"
+        <link href="/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate"
               title="{{ SITENAME }} ATOM Feed"/>
     {% endif %}
 
     {% if FEED_ALL_RSS %}
-        <link href="{{ SITEURL }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate"
+        <link href="/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate"
               title="{{ SITENAME }} RSS Feed"/>
     {% endif %}
 
@@ -120,7 +120,7 @@
         {%- else %}
             {%- set tag_feed_atom = TAG_FEED_ATOM.format(tag.slug) %}
         {%- endif %}
-        <link href="{{ SITEURL }}/{{ tag_feed_atom }}" type="application/atom+xml" rel="alternate"
+        <link href="/{{ tag_feed_atom }}" type="application/atom+xml" rel="alternate"
               title="{{ SITENAME }} {{ tag }} ATOM Feed"/>
     {%- endif %}
     {%- if category and CATEGORY_FEED_ATOM %}
@@ -129,7 +129,7 @@
         {%- else %}
             {%- set category_feed_atom = CATEGORY_FEED_ATOM.format(category.slug) %}
         {%- endif %}
-        <link href="{{ SITEURL }}/{{ category_feed_atom }}" type="application/atom+xml" rel="alternate"
+        <link href="/{{ category_feed_atom }}" type="application/atom+xml" rel="alternate"
               title="{{ SITENAME }} {{ category }} ATOM Feed"/>
     {%- endif %}
 
@@ -147,8 +147,8 @@
                 <span class="icon-bar"></span>
             </button>
             {% endif %}
-            <a href="{{ SITEURL }}/" class="navbar-brand">
-                {% if SITELOGO %}<img class="img-responsive pull-left gap-right" src="{{ SITEURL }}/{{ SITELOGO }}" width="{{ SITELOGO_SIZE }}"/> {% endif %}
+            <a href="/" class="navbar-brand">
+                {% if SITELOGO %}<img class="img-responsive pull-left gap-right" src="/{{ SITELOGO }}" width="{{ SITELOGO_SIZE }}"/> {% endif %}
                 {% if not HIDE_SITENAME %}{{ SITENAME }}{% endif %}
             </a>
         </div>
@@ -163,7 +163,7 @@
                 {% if DISPLAY_PAGES_ON_MENU %}
                     {% for p in pages | sort(attribute=PAGES_SORT_ATTRIBUTE) %}
                         {% if p.url %}
-                         <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">
+                         <li{% if p == page %} class="active"{% endif %}><a href="/{{ p.url }}">
                              {{ p.menulabel|default(p.title) }}
                           </a></li>
                         {% endif %}
@@ -172,13 +172,13 @@
                 {% if DISPLAY_CATEGORIES_ON_MENU %}
                     {% for cat, null in categories %}
                         <li {% if cat == category %}class="active"{% endif %}>
-                            <a href="{{ SITEURL }}/{{ cat.url }}">{{ cat | capitalize }}</a>
+                            <a href="/{{ cat.url }}">{{ cat | capitalize }}</a>
                         </li>
                     {% endfor %}
                 {% endif %}
             </ul>
             <ul class="nav navbar-nav navbar-right">
-              <li><a href="{{ SITEURL }}/pages/kalender.html"><i class="fa fa-calendar"></i><span class="icon-label">Kalender</span></a></li>
+              <li><a href="/pages/kalender.html"><i class="fa fa-calendar"></i><span class="icon-label">Kalender</span></a></li>
             {% if 'tipue_search' in PLUGINS %}
               <li><span>
                 <form class="navbar-search" action="{{ SEARCH_URL | default('/search.html') }}">
@@ -187,7 +187,7 @@
               </li>
             {% endif %}
             {% if ARCHIVES_SAVE_AS %}
-              <li><a href="{{ SITEURL }}/{{ ARCHIVES_URL | default('archives.html') }}"><i class="fa fa-th-list"></i><span class="icon-label">{{ _('Archives') }}</span></a></li>
+              <li><a href="/{{ ARCHIVES_URL | default('archives.html') }}"><i class="fa fa-th-list"></i><span class="icon-label">{{ _('Archives') }}</span></a></li>
             {% endif %}
             </ul>
         </div>
@@ -212,7 +212,7 @@
 {% if SCENE %}
 <!-- Full Width Image Header -->
 <header class="image-bg" id="image-bg">
-    <img class="img-responsive img-center" src="{{ SITEURL }}/images/scenes/web1920/{{ SCENE }}" srcset="{{ SITEURL }}/images/scenes/web240/{{ SCENE }} 240w, {{ SITEURL }}/images/scenes/web480/{{ SCENE }} 480w, {{ SITEURL }}/images/scenes/web960/{{ SCENE }} 960w, {{ SITEURL }}/images/scenes/web1920/{{ SCENE }} 1920w" alt="">
+    <img class="img-responsive img-center" src="/images/scenes/web1920/{{ SCENE }}" srcset="/images/scenes/web240/{{ SCENE }} 240w, /images/scenes/web480/{{ SCENE }} 480w, /images/scenes/web960/{{ SCENE }} 960w, /images/scenes/web1920/{{ SCENE }} 1920w" alt="">
 </header>
 {% endif %}
 
@@ -249,20 +249,20 @@
 
 {% include 'includes/footer.html' %}
 
-<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/jquery.min.js"></script>
+<script src="/{{ THEME_STATIC_DIR }}/js/jquery.min.js"></script>
 
 <!-- Include all compiled plugins (below), or include individual files as needed -->
-<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/bootstrap.min.js"></script>
+<script src="/{{ THEME_STATIC_DIR }}/js/bootstrap.min.js"></script>
 
 <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
-<script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/respond.min.js"></script>
+<script src="/{{ THEME_STATIC_DIR }}/js/respond.min.js"></script>
 
 {% if CUSTOM_JS %}
-    <script src="{{ SITEURL }}/{{ CUSTOM_JS }}"></script>
+    <script src="/{{ CUSTOM_JS }}"></script>
 {% endif %}
 
 {% if BANNER %}
-    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/bodypadding.js"></script>
+    <script src="/{{ THEME_STATIC_DIR }}/js/bodypadding.js"></script>
 {% endif %}
 {% include 'includes/sidebar/github-js.html' %}
 {% include 'includes/disqus_script.html' %}
