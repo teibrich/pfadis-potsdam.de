@@ -21,7 +21,7 @@ THEME = "./combined_theme"
 BOOTSTRAP_THEME = "yeti"
 CUSTOM_CSS = "theme/css/custom.css"
 CUSTOM_JS = "theme/js/custom.js"
-DIRECT_TEMPLATES = ('archives', 'tags')
+DIRECT_TEMPLATES = ('archives', 'tags', 'article_list')
 PAGINATED_TEMPLATES = {'blog': None}
 SHOW_ARTICLE_AUTHOR = True
 SHOW_ARTICLE_TAGS = True
@@ -57,13 +57,12 @@ TAG_FEED_ATOM = "feeds/tag_{slug}.atom.xml"
 TAG_FEED_RSS = "feeds/tag_{slug}.rss"
 
 MENUITEMS = (
-	# ('Timeline', '/pages/timeline.html'),
-	# ('Blog', '/blog.html'),
   ('Wölflinge', '/pages/wolflinge.html'),
   ('Jungpfadfinder', '/pages/jungpfadfinder.html'),
   ('Pfadfinder', '/pages/pfadfinder.html'),
   ('Rover', '/pages/rover.html'),
   ('Leiter', '/pages/leiter.html'),
+  ('Blog', '/article_list.html'),
 	('Impressum', '/pages/impressum.html')
 )
 
