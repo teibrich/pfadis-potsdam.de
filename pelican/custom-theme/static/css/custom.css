@@ -6,6 +6,12 @@
 
 }
 
+@media (max-width: 340px) {
+    .navbar-header img.img-responsive { 
+        display: none;
+    }
+}
+
 .rubric {
 	/* font-size: 39px; */
 	font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
