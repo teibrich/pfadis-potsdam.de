@@ -4,7 +4,7 @@ Scene: fire3.jpg
 
 Als Pfadfinder - oder auch kurz Pfadis - sind wir **zwischen 13 und 16 Jahren** alt und sehr aktiv: Wir treffen uns **wöchentlich montags zwischen 18:30 und 20:00 Uhr** im **Jugendkeller** der Gemeinde.
 
-Wir spielen natürlich auch, gehen unsere Gruppenstunden aber auch mal etwas ruhiger an und reden und quatschen viel. Wir beschließen in Teilen selbst was wir in den Gruppenstunden machen wollen und nehmen die Planung dann auch selbst in die Hand: Zuletzt haben wir zum Beispiel einen richtig tollen Kurzfilm zum Thema Pfadfinder gedreht - fast ohne unsere Leiter Josi, Elisa, Stefan und Max.
+Wir spielen natürlich auch, gehen unsere Gruppenstunden aber auch mal etwas ruhiger an und reden und quatschen viel. Wir beschließen in Teilen selbst was wir in den Gruppenstunden machen wollen und nehmen die Planung dann auch selbst in die Hand: Zuletzt haben wir zum Beispiel einen richtig tollen Kurzfilm zum Thema Pfadfinder gedreht - fast ohne unsere Leiter Leonie, Josi und Max.
 
 Wir versuchen viel mit den anderen Pfadfindern der Diözese zu unternehmen und waren im Sommer z.B. mit 50 Leuten für 2 Wochen in Norwegen. Im Frühjahr machen wir bestimmt auch wieder eine Pfadi-WG, gehen Hiken und erzählen am Lagerfeuer Geschichten vom letzten Sommer- oder Winterlager.
 
