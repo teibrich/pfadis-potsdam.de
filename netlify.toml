@@ -1,3 +1,8 @@
 [build]
   command = "cd pelican && make publish"
   publish = "pelican/output"
+
+[[redirects]]
+  from = "/*"
+  to = "/pages/404.html"
+  status = 404
