@@ -1,71 +1,32 @@
-# Readme
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ef3bf18f-d569-4beb-b19d-24c5038d95ec/deploy-status)](https://app.netlify.com/sites/pensive-yonath-253aac/deploys)
 
-## Create and Source the Virtual Environment matching the requirements.txt
+# README
 
+Dieses git repository enthält die original Dateien für unsere Homepage: http://www.pfadis-potsdam.de/
+Alle Änderungen werden mittels https://www.netlify.com/ direct gebaut und veröffentlicht.
+
+## Download / Checkout
+
+Dieses Project verwendet git submodules, die du mit auschecken musst:
+
+    git clone --recurse-submodules git@github.com:teibrich/pfadis-potsdam.de.git
+    cd pfadis-potsdam.de
+
+## Bearbeitung
+
+Die meisten Markdown-Datein können direkt in Github bearbeitet werden. Um die Website lokal zu testen benötigst du `python3.7`.
+
+Zur Vorbeitung installiert zunächst alle Abhängigkeiten:
+
+    python3.7 -m venv pelican-env
     source pelican-env/bin/activate
+    pip install -r requirements.txt
 
-## Dependencies
-
-    pip install pelican fab fabric==1.14.0
-    (cd pelican plugins && git submodule init)
-    git submodule update --recursive --remote
-
-or directly do a `git clone --recursive`.
-
-## Serving
-To start a local server run
+Danach kannst du die Website bauen und testen
 
     cd pelican
-    fab serve
+    make devserver
 
-and in a second terminal
+Veränderungen lösen zumeinst automatisch einen Neubau aus. Veränderungen innerhalb von `pelican/custom-theme` müssen manuell neu mit dem original Theme gemerged werden:
 
-    cd pelican
-    fab regenerate
-
-## Publishing
-
-    cd pelican
-    fab publish
-
-## Environment
-
-My current environment `pip freeze` is
-
-    asn1crypto==0.24.0
-    bcrypt==3.1.4
-    beautifulsoup4==4.6.0
-    blinker==1.4
-    certifi==2018.4.16
-    cffi==1.11.5
-    chardet==3.0.4
-    cryptography==2.2.2
-    docutils==0.14
-    ecdsa==0.13
-    enum34==1.1.6
-    fab==1.4.2
-    fabric==1.14.0
-    feedgenerator==1.9
-    idna==2.6
-    invoke==1.0.0
-    ipaddress==1.0.22
-    Jinja2==2.10
-    Markdown==2.6.11
-    MarkupSafe==1.0
-    numpy==1.14.3
-    paramiko==2.4.1
-    pelican==3.7.1
-    pyasn1==0.4.3
-    pycparser==2.18
-    pycrypto==2.6.1
-    Pygments==2.2.0
-    PyNaCl==1.2.1
-    python-dateutil==2.7.3
-    pytz==2018.4
-    requests==2.18.4
-    six==1.11.0
-    smartypants==2.0.1
-    typogrify==2.0.7
-    Unidecode==1.0.22
-    urllib3==1.22
-    webassets==0.12.1
+    make theme
