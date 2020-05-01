@@ -2,10 +2,6 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-import sys
-reload(sys)
-sys.setdefaultencoding('utf-8')
-
 from datetime import datetime
 import os
 
@@ -14,24 +10,39 @@ YEAR = datetime.now().year
 SITENAME = 'DPSG Stamm Sanssouci'
 SITEURL = 'http://www.pfadis-potsdam.de'
 
+SITELOGO = '/images/logos/DPSG-Lilie_weiss.svg'
+SITELOGO_SIZE = '20px'
+
 PATH = 'content'
 FILENAME_METADATA = '(?P<slug>.*)'
 
 # pelican-bootstrap3
-THEME = "./theme"
-# http://bootswatch.com/
+THEME = "./combined_theme"
 BOOTSTRAP_THEME = "yeti"
-CUSTOM_CSS = "theme/custom.css"
-DIRECT_TEMPLATES = ('blog', 'archives', 'tags')
+CUSTOM_CSS = "./custom/custom.css"
+DIRECT_TEMPLATES = ('archives', 'tags')
 PAGINATED_TEMPLATES = {'blog': None}
 SHOW_ARTICLE_AUTHOR = True
 SHOW_ARTICLE_TAGS = True
 
+DISPLAY_PAGES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = False
+
 PLUGIN_PATHS = ['../pelican-plugins/']
-PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
-           'liquid_tags.youtube', 'liquid_tags.vimeo',
-           'liquid_tags.include_code', 'twitter_bootstrap_rst_directives',
-           'bootstrapify']
+PLUGINS = [
+  'liquid_tags.img', 
+  'liquid_tags.video',
+  'liquid_tags.youtube', 
+  'liquid_tags.vimeo',
+  'liquid_tags.include_code', 
+  'twitter_bootstrap_rst_directives',
+  'i18n_subsites'
+]
+
+JINJA_ENVIRONMENT = {
+    'extensions': ['jinja2.ext.i18n'],
+}
+I18N_TEMPLATES_LANG = 'de'
 
 TIMEZONE = 'Europe/Paris'
 

@@ -1,5 +1,9 @@
 # Readme
 
+## Create and Source the Virtual Environment matching the requirements.txt
+
+    source pelican-env/bin/activate
+
 ## Dependencies
 
     pip install pelican fab fabric==1.14.0
