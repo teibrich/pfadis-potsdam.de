@@ -1,5 +1,5 @@
 Title: Leiter
-Summary: ...
+Summary: Unsere Leiterrunde stellt sich vor!
 Scene: winter1.jpg
 
 Wir Leiter sind zwischen ... - ok wir sparen uns das ;-)
