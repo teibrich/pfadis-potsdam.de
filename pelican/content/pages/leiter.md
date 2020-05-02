@@ -15,4 +15,4 @@ var wmjzlhf = ['a','d','c','@','s','p','a','d','@',' ','a','a','r','d','o','r','
 // --></script>
 <noscript>Please enable Javascript to see the email address</noscript>!**
 
-Im Vorstand werden wir übrigens vertreten durch Fabian Bräunlein, Alexander Teibrich und Matthias Wemhoff.
+Im Vorstand werden wir übrigens vertreten durch Max Klenk, Leonie Hahn und Matthias Wemhoff.
