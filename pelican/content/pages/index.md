@@ -7,10 +7,6 @@ Summary:
 
 *Hier ist immer etwas los! Scoute dich!*
 
-> <span style="color:orange">**_ACTUNG:_**</span>
-> 
-> <span style="color:orange">Auf Grund der aktuellen Lage finden momentan keine Gruppenstunden vor Ort statt. Wir bleiben trotzdem mit euch online im Kontakt und freuen uns wenn wir uns z.B. in Discord austauschen können.</span>
-
 {% img center img-medium images/logos/logo.svg %}
 
 Die Deutsche Pfadfinderschaft St. Georg (DPSG) ist der größte Pfadfinderverband in Deutschland und gleichzeitig einer der größten Kinder- und Jugendverbände. Dabei geht es um ganz viel Abenteuer:
