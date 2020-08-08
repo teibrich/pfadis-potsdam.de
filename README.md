@@ -22,7 +22,7 @@ Zur Vorbeitung installiert zunächst alle Abhängigkeiten:
     source pelican-env/bin/activate
     pip install -r requirements.txt
 
-Danach kannst du die Website bauen und testen
+Danach kannst du die Website bauen und testen (http://localhost:8000/):
 
     cd pelican
     make devserver
