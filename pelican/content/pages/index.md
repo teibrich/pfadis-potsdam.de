@@ -16,11 +16,9 @@ Die Deutsche Pfadfinderschaft St. Georg (DPSG) ist der größte Pfadfinderverban
 * Neues entdecken und ausprobieren,
 * gemeinsam in der Gruppe das eigene Umfeld gestalten.
 
-In Potsdam sind wir aktuell ca. 100 Wölflinge, Jungpfadfinder, Pfadfinder, Rover und Leiter! Wir haben je nach Altersstufe ein- bis zweiwöchentlich Gruppenstunden (Montag, Dienstag, Freitag oder Samstag), natürlich ein Sommerlager, aber dazwischen auch noch zahlreiche andere Lager, Fahrten und Aktionen, so dass niemandem langweilig wird. 
+In Potsdam sind wir aktuell ca. 90 Wölflinge, Jungpfadfinder, Pfadfinder, Rover und Leiter! Wir haben je nach Altersstufe ein- bis zweiwöchentlich Gruppenstunden (Montag, Dienstag, Freitag oder Samstag), natürlich ein Sommerlager, aber dazwischen auch noch zahlreiche andere Lager, Fahrten und Aktionen, so dass niemandem langweilig wird. 
 
 Komm doch gerne einfach einmal vorbei – als Kind, Jugendlicher oder auch als Leiter*In!
-
-Auf unserer [Facebook-Seite](https://www.facebook.com/pfadispotsdam) findest du übrigens auch noch weitere aktuelle Informationen ;-)
 
 Gut Pfad,
 

@@ -57,12 +57,13 @@ TAG_FEED_ATOM = "feeds/tag_{slug}.atom.xml"
 TAG_FEED_RSS = "feeds/tag_{slug}.rss"
 
 MENUITEMS = (
+  ('Biber', '/pages/biber.html'),
   ('Wölflinge', '/pages/wolflinge.html'),
   ('Jungpfadfinder', '/pages/jungpfadfinder.html'),
   ('Pfadfinder', '/pages/pfadfinder.html'),
   ('Rover', '/pages/rover.html'),
   ('Leiter', '/pages/leiter.html'),
-  ('Blog', '/article_list.html'),
+  # ('Blog', '/article_list.html'), # outdated
 	('Impressum', '/pages/impressum.html')
 )
 

@@ -1,8 +1,8 @@
 Title: Wölflinge
-Summary: Wölflinge sind zwischen 7 und 10 Jahre alt und damit die jüngste Gruppe im Stamm. Sie machen wahnsinnig gerne Lagerfeuer und spielen viel. Komm doch einfach mal vorbei!
+Summary: Wölflinge sind zwischen 7 und 10 Jahre alt und damit die zweitjüngste Gruppe im Stamm. Sie machen wahnsinnig gerne Lagerfeuer und spielen viel. Komm doch einfach mal vorbei!
 Scene: fire2.jpg
 
-Wir sind alle - außer unsere Leiter - **zwischen 7 und 10 Jahre** alt und damit die jüngste Gruppe im Stamm. Wir machen wahnsinnig gerne Lagerfeuer und spielen viel. Unsere Leiter - Cora, Ruth und Alex - haben aber auch immer ein paar tolle Bastelideen oder Lieder parat.
+Wir sind alle - außer unsere Leiter - **zwischen 7 und 10 Jahre** alt und damit die zweitjüngste Gruppe im Stamm. Wir machen wahnsinnig gerne Lagerfeuer und spielen viel. Unsere Leiter - Cora, Ruth und Alex - haben aber auch immer ein paar tolle Bastelideen oder Lieder parat.
 
 Wie alle anderen Gruppen sind wir über das Jahr verteilt auch viel auf Lagern unterwegs, bleiben aber dabei gerne etwas näher an Potsdam und Berlin ...
 
