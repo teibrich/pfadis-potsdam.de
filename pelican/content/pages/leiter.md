@@ -4,7 +4,7 @@ Scene: winter1.jpg
 
 Wir Leiter sind zwischen ... - ok wir sparen uns das ;-)
 
-Wir sind eine bunt gemischte Gruppe aus einige Studenten und auch einigen etwas älteren, aber junggebliebenen Familienvätern. Insgesamt sind wir 10 Leiter, so das wir jede Stufe mit mindestens zwei Leuten betreuen können. Während der Lager haben wir teils noch zusätzliche Unterstützung. Normalerweise treffen wir uns einmal im Monat zur Leiterrunde
+Wir sind eine bunt gemischte Gruppe aus Studenten, langjährigen Pfadfindern und auch einigen etwas älteren, aber junggebliebenen Familienvätern. Insgesamt sind wir 16 Leiter, so das wir jede Stufe mit mindestens zwei Leuten betreuen können. Während der Lager haben wir teils noch zusätzliche Unterstützung. Normalerweise treffen wir uns einmal im Monat zur Leiterrunde
 
 **Wir freuen uns immer über zusätzliche helfende Hände**, sei es von Eltern die gelegentlich helfen wollen, Studenten - mit oder ohne Erfahrung - die sich ehrenamtlich engagieren wollen oder einfach jeden anderen oder jede andere die gern am Lagerfeuer sitzt. Ob jetzt in regelmäßigen Gruppenstunden, als Koch auf Lagern, als Kassenwart oder sonst irgendwo - die Möglichkeiten sind vielfältig und problemlos an die zeitlichen Möglichkeiten anpassbar.
 
@@ -15,4 +15,4 @@ var wmjzlhf = ['a','d','c','@','s','p','a','d','@',' ','a','a','r','d','o','r','
 // --></script>
 <noscript>Please enable Javascript to see the email address</noscript>!**
 
-Im Vorstand werden wir übrigens vertreten durch Max Klenk, Leonie Hahn und Matthias Wemhoff.
+Im Vorstand werden wir übrigens vertreten durch Max, Josi und Dorothea.
