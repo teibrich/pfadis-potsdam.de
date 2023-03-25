@@ -16,14 +16,15 @@ Die Deutsche Pfadfinderschaft St. Georg (DPSG) ist der größte Pfadfinderverban
 * Neues entdecken und ausprobieren,
 * gemeinsam in der Gruppe das eigene Umfeld gestalten.
 
+<br/>
 In Potsdam sind wir aktuell ca. 80 Mitglieder unterteilt in mehrere Altersstufen:
 
-* [Biber](biber.md) (5-7 Jahre)
-* [Wölflinge](wolflinge.md) (6-10 Jahre)
-* [Jungpfadfinder:innen](jungpfadfinder.md), kurz: Jupfis (9-13 Jahre)
-* [Pfadfinder:innen](pfadfinder.md), kurz: Pfadis (12-16 Jahre)
-* [Rover:innen](rover.md) (16-20 Jahre)
-* [Leiter:innen](leiter.md) (ab 18 Jahren)
+* [Biber](/pages/biber.html) (5-7 Jahre)
+* [Wölflinge](/pages/wolflinge.html) (6-10 Jahre)
+* [Jungpfadfinder:innen](/pages/jungpfadfinder.html), kurz: Jupfis (9-13 Jahre)
+* [Pfadfinder:innen](/pages/pfadfinder.html), kurz: Pfadis (12-16 Jahre)
+* [Rover:innen](/pages/rover.html) (16-20 Jahre)
+* [Leiter:innen](/pages/leiter.html) (ab 18 Jahren)
 
 Wir haben je nach Altersstufe ein- bis zweiwöchentlich Gruppenstunden (Montag, Dienstag oder Mittwoch), natürlich ein Sommerlager, aber dazwischen auch noch zahlreiche andere Lager, Fahrten und Aktionen, so dass niemandem langweilig wird. 
 

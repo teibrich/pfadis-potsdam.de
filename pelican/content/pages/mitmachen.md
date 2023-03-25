@@ -3,10 +3,12 @@ Summary: Werde ein Teil von uns!
 Scene: hands.jpg
 
 **Gruppenmitglied werden**
+
 Du oder dein Kind möchte uns kennenlernen?
 Kein Problem! Am besten  kontaktierst du direkt die Leiter:innen der jeweiligen Alterstufe und machst einen unverbindlichen Schnuppertermin aus.
 
 Wir legen in unserer Arbeit besonderen Wert auf:
+
 * Mitbestimmung der Kinder und Jugendlichen
 * Gemeinschaft und Natur erleben
 * Zeltlager und unterwegs sein
@@ -15,10 +17,12 @@ Wir legen in unserer Arbeit besonderen Wert auf:
 Wir möchten Kinder und Jugendliche stärken, schützen und sie zu selbstbewussten Menschen erziehen. Hier findet ihr <a href="https://dpsg.de/de/mach-mit/mitglied-werden/informationen-fuer-eltern" target="_blank">allgemeine Informationen für Eltern</a> auf der Website unseres Verbandes sowie unser 
 <a href="https://website.dpsg-berlin.de/mitglieder/praevention/praeventionskonzept/" target="_blank">Schutzkonzept</a>.
 
-**Gruppenleiter:in werden** 
+**Gruppenleiter:in werden**
+
 Du hast Freude an der Arbeit mit Kinder und Jugendlichen, möchtest sie in ihrer individuellen Entwicklung untersützen und dabei auch für dich schöne Erlebnisse in einer vielfältigen Gemeinschaft mitnehmen? Dann bist du in unserer Leiterrunde genau richtig. Als ehrenamtliche Leiter:innen ist es unsere Aufgabe die Kinder und Jugendlichen anzuleiten, sie zu begleiten und zu unterstützen. Ab 18 Jahren ist es bei uns möglich Gruppenleiter:in zu werden. 
 
 Darum lohnt es sich für dich bei uns als Leiter:in mitzumachen:
+
 * **Spaß und Gemeinschaft** - egal ob im Leitungsteam einer Altersstufe, im Stamm oder als Teil der weltweit größten Jugendbewegung, bei uns bist du Teil einer vielfältigen Gemeinschaft 
 * **Projekt- und Teamarbeit** - ob beim Planen von Gruppenstunden, organisieren von Lagern oder kleinen Abenteuern, die viel gerühmten Social Skills kannst du bei uns ganz nebenbei lernen
 * **Praxisnahe Ausbildung** - unsere erfahrene Leitenden unterstützen die Neuen beim Einstieg, zudem gibt es eine Vielzahl an Kursen, mit denen du dich weiterbilden kannst und auch als Quereinsteiger:in bestens vorbereitet wirst
