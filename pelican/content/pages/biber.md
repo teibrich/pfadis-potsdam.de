@@ -10,4 +10,4 @@ Bist du so alt wie wir und hast auch Lust auf Lagerfeuer? Kommt doch einfach mal
 
 <noscript>Please enable Javascript to see the email address</noscript>.
 
-{% img center img-medium images/logos/biber.png %}
+{% img center img-medium /images/logos/biber.png %}

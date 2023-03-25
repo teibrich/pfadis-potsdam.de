@@ -43,4 +43,4 @@ var wmjzlhf = ['a','d','c','@','s','p','a','d','@',' ','a','a','r','d','o','r','
 
 Im Vorstand werden wir übrigens vertreten durch Henni, Josi und Dorothea.
 
-{% img center img-medium images/logos/lilie_regenbogen.png %}
+{% img center img-medium /images/logos/lilie_regenbogen.png %}

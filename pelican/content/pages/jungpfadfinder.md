@@ -12,4 +12,4 @@ var jejgsqh = ['d','=','<','p','.','d','d','u','e','p','a','-','@','<','u','-','
 
 Melde dich am besten einfach mal :-)
 
-{% img center img-medium images/logos/Kobold.svg %}
+{% img center img-medium /images/logos/Kobold.svg %}

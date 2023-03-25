@@ -18,4 +18,4 @@ var ypsyjzz = ['/','i','d','p','a','l','o','>','l','.','e','-','e','s','p','s','
 // --></script>
 <noscript>Please enable Javascript to see the email address</noscript> bei unseren Leitenden. 
 
-{% img center img-medium images/logos/rover.svg %}
+{% img center img-medium /images/logos/rover.svg %}

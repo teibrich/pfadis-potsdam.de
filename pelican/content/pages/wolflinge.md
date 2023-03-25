@@ -11,4 +11,4 @@ var jfguvqy = ['t','d','=','i','l','e','t','i','"','-','o','e','e','o','@','-','
 // --></script>
 <noscript>Please enable Javascript to see the email address</noscript>.
 
-{% img center img-medium images/logos/woelfi.svg %}
+{% img center img-medium /images/logos/woelfi.svg %}

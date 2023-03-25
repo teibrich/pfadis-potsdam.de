@@ -13,5 +13,5 @@ var cwvjpih = ['a','"','d','o','i','@','e','o','i','d','r','l',' ','m','t','a','
 // --></script>
 <noscript>Please enable Javascript to see the email address</noscript>.
 
-{% img center img-medium images/logos/pfadfinderstufe.svg %}
+{% img center img-medium /images/logos/pfadfinderstufe.svg %}
 
