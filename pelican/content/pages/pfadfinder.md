@@ -1,4 +1,4 @@
-Title: Pfadfis
+Title: Pfadfinder:innen
 Summary: Als Pfadfinder:innen - oder auch kurz Pfadis - sind wir zwischen 12 und 16 Jahren alt und sehr aktiv: Wir treffen uns wöchentlich, organisieren eigene Projekte und gehen auf große Fahrt.
 Scene: radtour.jpg
 

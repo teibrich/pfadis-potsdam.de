@@ -1,4 +1,4 @@
-Title: Jupfis
+Title: Jungpfadfinder:innen
 
 Summary: Unsere Jungpfadfinder:innen zwischen 9 und 13 Jahren sind die größte Gruppe im Stamm. Sie sind gerne an der frischen Luft, wandern viel und spielen sehr gerne Geländespiele.
 Scene: hike2.jpg

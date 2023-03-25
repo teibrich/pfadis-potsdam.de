@@ -36,7 +36,7 @@ PLUGINS = [
   'liquid_tags.youtube', 
   'liquid_tags.vimeo',
   'liquid_tags.include_code', 
-  'twitter_bootstrap_rst_directives',
+  #'twitter_bootstrap_rst_directives',
   'i18n_subsites'
 ]
 

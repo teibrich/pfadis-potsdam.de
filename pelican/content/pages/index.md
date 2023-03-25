@@ -9,7 +9,6 @@ Summary:
 
 {% img center img-medium images/logos/logo.svg %}
 
-
 Die Deutsche Pfadfinderschaft St. Georg (DPSG) ist der größte Pfadfinderverband in Deutschland und gleichzeitig einer der größten Kinder- und Jugendverbände. Dabei geht es um ganz viel Abenteuer:
 
 * mit Freundinnen und Freunden Spaß haben,
@@ -18,12 +17,13 @@ Die Deutsche Pfadfinderschaft St. Georg (DPSG) ist der größte Pfadfinderverban
 * gemeinsam in der Gruppe das eigene Umfeld gestalten.
 
 In Potsdam sind wir aktuell ca. 80 Mitglieder unterteilt in mehrere Altersstufen:
-* [Biber (5-7 Jahre)](biber.md)
-* [Wölflinge (6-10 Jahre)](wolflinge.md)
-* [Jungpfadfinder:innen, kurz: Jupfis (9-13 Jahre)](jungpfadfinder.md)
-* [Pfadfinder:innen, kurz: Pfadis (12-16 Jahre)](pfadfinder.md)
-* [Rover:innen (16-20 Jahre)](rover.md)
-* [Leiter:innen (ab 18 Jahren)](leiter.md)
+
+* [Biber](biber.md) (5-7 Jahre)
+* [Wölflinge](wolflinge.md) (6-10 Jahre)
+* [Jungpfadfinder:innen](jungpfadfinder.md), kurz: Jupfis (9-13 Jahre)
+* [Pfadfinder:innen](pfadfinder.md), kurz: Pfadis (12-16 Jahre)
+* [Rover:innen](rover.md) (16-20 Jahre)
+* [Leiter:innen](leiter.md) (ab 18 Jahren)
 
 Wir haben je nach Altersstufe ein- bis zweiwöchentlich Gruppenstunden (Montag, Dienstag oder Mittwoch), natürlich ein Sommerlager, aber dazwischen auch noch zahlreiche andere Lager, Fahrten und Aktionen, so dass niemandem langweilig wird. 
 
