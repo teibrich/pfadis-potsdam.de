@@ -89,6 +89,10 @@ blockquote {
     margin-right: 0px;
 }
 
+/* Content */
+p {
+    margin: 0 0 18px;
+}
 
 /* Responsive iFrame */
 /* http://themeloom.com/2013/02/tips-embed-google-maps-and-calendars-in-a-responsive-wordpress-theme/ */

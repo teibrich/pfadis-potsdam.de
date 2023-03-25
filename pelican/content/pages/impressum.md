@@ -5,7 +5,7 @@ Scene: hands.jpg
 Angaben gemäß § 5 TMG:
 
 > DPSG Stamm Sanssouci, Potsdam  <br />
-> Vorstand: Max Klenk, Josephine Klenk, Dorothea Amrhein Hahn <br />
+> Vorstand: Henrike Warnke, Josephine Klenk, Dorothea Amrhein <br />
 > Am Bassin 2 <br />
 > 14467 Potsdam <br />
 

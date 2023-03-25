@@ -59,10 +59,11 @@ TAG_FEED_RSS = "feeds/tag_{slug}.rss"
 MENUITEMS = (
   ('Biber', '/pages/biber.html'),
   ('Wölflinge', '/pages/wolflinge.html'),
-  ('Jungpfadfinder', '/pages/jungpfadfinder.html'),
-  ('Pfadfinder', '/pages/pfadfinder.html'),
+  ('Jupfis', '/pages/jungpfadfinder.html'),
+  ('Pfadis', '/pages/pfadfinder.html'),
   ('Rover', '/pages/rover.html'),
-  ('Leiter', '/pages/leiter.html'),
+  ('Leiterrunde', '/pages/leiter.html'),
+  # ('Mach mit!', '/pages/mitmachen.html'),
   # ('Blog', '/article_list.html'), # outdated
 	('Impressum', '/pages/impressum.html')
 )
