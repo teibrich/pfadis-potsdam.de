@@ -63,9 +63,9 @@ MENUITEMS = (
   ('Pfadis', '/pages/pfadfinder.html'),
   ('Rover', '/pages/rover.html'),
   ('Leiterrunde', '/pages/leiter.html'),
-  # ('Mach mit!', '/pages/mitmachen.html'),
+  ('Mach mit!', '/pages/mitmachen.html'),
   # ('Blog', '/article_list.html'), # outdated
-	('Impressum', '/pages/impressum.html')
+	# ('Impressum', '/pages/impressum.html') # moved to footer
 )
 
 DEFAULT_PAGINATION = False
