@@ -30,6 +30,10 @@ Wir haben je nach Altersstufe ein- bis zweiwöchentlich Gruppenstunden (Montag, 
 
 Komm doch gerne einfach einmal vorbei – als Kind, Jugendliche:r oder auch als Leiter:in!
 
+In der [Stammes-Chronik](/pages/chronik.html) gibt es Einblick welche Lager und größeren Aktionen wir neben unseren Gruppenstunden schon unternommen haben.
+
+Auf der [Macht mit!](/pages/mitmachen.html) Seite findet ihr alles um bei uns mitzumachen. 
+
 Gut Pfad,
 
 Dein Stamm Sanssouci
