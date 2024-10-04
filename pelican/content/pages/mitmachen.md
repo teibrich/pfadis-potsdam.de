@@ -1,6 +1,6 @@
 Title: Mach mit!
 Summary: Werde ein Teil von uns!
-Scene: hands.jpg
+Scene: fire1.jpg
 
 
 Pfadfinden ist mehr als nur zelten und wandern. Beim Pfadfinden kann man sich ausprobieren, ohne dafür bewertet oder benotet zu werden. Es ist ein gemeinsames Abenteuer in der Gruppe, mit der man unterwegs ist.  
