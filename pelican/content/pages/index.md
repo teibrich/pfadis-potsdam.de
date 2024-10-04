@@ -54,10 +54,10 @@ Hier ein Einblick welche Lager und größeren Aktionen wir neben unseren Gruppen
 * Jugendkreuzweg  
 * Pfingstlager auf Usedom  
 * Sommerlager in Stufen  
-  * Wölflinge: Das magische Baumhaus in Berlin Heiligensee  
-  * Jungpfadfinder: Wandern um den Königssee  
-  * Pfadfinder: Jamborette in Haarlem (NL)  
-  * Rover: Interrail-Tour  
+    * Wölflinge: Das magische Baumhaus in Berlin Heiligensee  
+    * Jungpfadfinder: Wandern um den Königssee  
+    * Pfadfinder: Jamborette in Haarlem (NL)  
+    * Rover: Interrail-Tour  
 * Gründung Pfarrei Allerheiligen  
 * Herbstlager auf der Bäkewiese  
 * Liederbuch “Dit Sang Susi 2” entsteht
@@ -81,8 +81,8 @@ Hier ein Einblick welche Lager und größeren Aktionen wir neben unseren Gruppen
 
 * Sternsingen per Post  
 * Sommerlager:  
-  * Juffis-Stern-Wanderung  
-  * Pfadi-Würfel-Zufalls-Lager  
+    * Juffis-Stern-Wanderung  
+    * Pfadi-Würfel-Zufalls-Lager  
 * digitaler Stammestag  
 * Jugendkreuzweg  
 * Herbstlager auf der Bäkewiese
@@ -108,10 +108,10 @@ Hier ein Einblick welche Lager und größeren Aktionen wir neben unseren Gruppen
 * Stammes Mr. X Spiel in Potsdam  
 * Pfingstlager “Streng geheim” in Berlin  
 * Sommerlager:  
-  * Wölflinge: Zirkus in Grenz  
-  * Jungpfadfinder: Zinnowitz  
-  * Pfadfinder: Jamborette in Haarlem (NL)  
-  * Rover: Segeln auf dem Ijsselmeer (NL)  
+    * Wölflinge: Zirkus in Grenz  
+    * Jungpfadfinder: Zinnowitz  
+    * Pfadfinder: Jamborette in Haarlem (NL)  
+    * Rover: Segeln auf dem Ijsselmeer (NL)  
 * Umgestaltung des Gemeindekellers  
 * 72-Stunden-Aktion: Goldhandy  
 * Herbstlager auf der Bäkewiese  
@@ -123,8 +123,8 @@ Hier ein Einblick welche Lager und größeren Aktionen wir neben unseren Gruppen
 * Leuchtfeuer (Leitendenlager in Westernohe)  
 * Pfingstlager “Völkerwanderung”-Ringelager (mehrere Pfadfinderverbände)  
 * Sommerlager   
-  * Wölflinge und Jungpfadfinder: Kanutour in Schweden  
-  * Pfadfinder und Rover: Alpenwanderung ab Schwangau  
+    * Wölflinge und Jungpfadfinder: Kanutour in Schweden  
+    * Pfadfinder und Rover: Alpenwanderung ab Schwangau  
 * Aufnahme in den Stadtjugendring  
 * Herbstlager auf der Bäkewiese
 * Vorstand: Alexander Teibrich, Max Klenk, Matthias Wemhoff
@@ -149,7 +149,7 @@ Hier ein Einblick welche Lager und größeren Aktionen wir neben unseren Gruppen
 ### 2015
 
 * Sommerlager “Robinson Crusoe” in Zinnowitz  
-  * Pfadi-Nachlager Hike nach Swinemünde  
+    * Pfadi-Nachlager Hike nach Swinemünde  
 * Gründung der Roverstufe  
 * Herbstlager in Werder  
 * Liederbuch “Dit Sang Susi” entsteht  
@@ -160,8 +160,8 @@ Hier ein Einblick welche Lager und größeren Aktionen wir neben unseren Gruppen
 * 24.05.14 Stammesgründung  
 * Pfingstlager in Rädel  
 * Sommerlager:  
-  * Wölflinge und Jungpfadfinder im Harz  
-  * Pfadfinder in Norwegen mit 50 Pfadis aus dem ganzen DV  
+    * Wölflinge und Jungpfadfinder im Harz  
+    * Pfadfinder in Norwegen mit 50 Pfadis aus dem ganzen DV  
 * Stammes-Logo entsteht  
 * Stammes-Pulli entsteht  
 * Herbstlager in Werder  
@@ -170,7 +170,7 @@ Hier ein Einblick welche Lager und größeren Aktionen wir neben unseren Gruppen
 ### 2013
 
 * Sommerlager in Lohmen mit Mutterstamm St. Otto   
-  * Pfadi-Vorhike
+    * Pfadi-Vorhike
 
 ### 2012
 
