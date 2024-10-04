@@ -2,7 +2,6 @@ Title: Stammes Chronik
 Summary: Ein Einblick welche Lager und größeren Aktionen wir neben unseren Gruppenstunden schon unternommen haben.
 Scene: 10years.jpg
 
-
 ### 2024
 
 * Sternsingen  
