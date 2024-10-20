@@ -4,7 +4,7 @@ Scene: radtour.jpg
 
 Als Pfadfinder:innen - oder auch kurz Pfadis - sind wir **zwischen 12 und 16 Jahre** alt und sehr aktiv: Wir treffen uns **wöchentlich montags zwischen 18:30 und 20:00 Uhr** im **Jugendkeller** der Gemeinde Peter und Paul.
 
-Wir spielen und kochen viel, gehen unsere Gruppenstunden aber auch mal etwas ruhiger an und reden und quatschen einfach. Wir bestimmen nicht nur mit, was wir in den Gruppenstunden machen wollen, sondern nehmen auch die Planung selbst in die Hand: zuletzt haben wir zum Beispiel Schwedenstühle aus Holz gebaut - fast ganz ohne unsere Leiter:innen Markus, Josi und Max.
+Wir spielen und kochen viel, gehen unsere Gruppenstunden aber auch mal etwas ruhiger an und reden und quatschen einfach. Wir bestimmen nicht nur mit, was wir in den Gruppenstunden machen wollen, sondern nehmen auch die Planung selbst in die Hand: zuletzt haben wir zum Beispiel Schwedenstühle aus Holz gebaut - fast ganz ohne unsere Leitende Elias und Max.
 
 Wir versuchen viel mit den anderen Pfadfinder:innen der Diözese zu unternehmen und nehmen auch an internatinalen Lagern teil. Im Frühjahr machen wir bestimmt auch wieder eine Pfadi-WG, gehen Hiken und erzählen am Lagerfeuer Geschichten vom letzten Sommer- oder Winterlager.
 
