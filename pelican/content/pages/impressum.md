@@ -5,7 +5,7 @@ Scene: hands.jpg
 Angaben gemäß § 5 TMG:
 
 > DPSG Stamm Sanssouci, Potsdam  <br />
-> Vorstand: Henrike Warnke, Josephine Klenk, Dorothea Amrhein <br />
+> Vorstand: Jasmine Neugebauer, Nestor Erdmann, Dorothea Amrhein <br />
 > Am Bassin 2 <br />
 > 14467 Potsdam <br />
 
