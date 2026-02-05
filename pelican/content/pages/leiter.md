@@ -13,6 +13,7 @@ var wmjzlhf = ['a','d','c','@','s','p','a','d','@',' ','a','a','r','d','o','r','
 // --></script>
 <noscript>Please enable Javascript to see the email address</noscript>!**
 
-Im Vorstand werden wir übrigens vertreten durch Jasmine, Josi und Dorothea.
+Im Vorstand werden wir übrigens vertreten durch Dorothea, Teresa und Nestor.
 
 {% img center img-medium /images/logos/lilie_regenbogen.png %}
+
