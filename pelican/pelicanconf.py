@@ -64,6 +64,8 @@ MENUITEMS = (
   ('Rover', '/pages/rover.html'),
   ('Leiterrunde', '/pages/leiter.html'),
   ('Mach mit!', '/pages/mitmachen.html'),
+  ('Prävention', '/pages/praevention.html'),
+  
   # ('Blog', '/article_list.html'), # outdated
 	# ('Impressum', '/pages/impressum.html') # moved to footer
 )
